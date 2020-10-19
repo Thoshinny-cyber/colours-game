@@ -1,2 +1,3 @@
-# my-project
-new project
+# Colour game
+A game to improve your attention!!!
+
